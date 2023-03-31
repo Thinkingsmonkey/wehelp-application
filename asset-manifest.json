@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Thinkingsmonkey/wehelp-application.git/static/css/main.073c9b0a.css",
-    "main.js": "/Thinkingsmonkey/wehelp-application.git/static/js/main.bfc2bcbe.js",
+    "main.js": "/Thinkingsmonkey/wehelp-application.git/static/js/main.8d8a6974.js",
     "static/js/787.61dfc748.chunk.js": "/Thinkingsmonkey/wehelp-application.git/static/js/787.61dfc748.chunk.js",
     "static/media/logo.svg": "/Thinkingsmonkey/wehelp-application.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Thinkingsmonkey/wehelp-application.git/index.html",
     "main.073c9b0a.css.map": "/Thinkingsmonkey/wehelp-application.git/static/css/main.073c9b0a.css.map",
-    "main.bfc2bcbe.js.map": "/Thinkingsmonkey/wehelp-application.git/static/js/main.bfc2bcbe.js.map",
+    "main.8d8a6974.js.map": "/Thinkingsmonkey/wehelp-application.git/static/js/main.8d8a6974.js.map",
     "787.61dfc748.chunk.js.map": "/Thinkingsmonkey/wehelp-application.git/static/js/787.61dfc748.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bfc2bcbe.js"
+    "static/js/main.8d8a6974.js"
   ]
 }
