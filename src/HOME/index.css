@@ -24,7 +24,7 @@ h1{
 }
 .question:hover,
 .question:hover .question-title{
-    background-color: #A5D7E8;
+    background-color: #85defc;
     color:#000;
 }
 .question:hover .question-title{
