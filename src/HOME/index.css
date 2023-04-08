@@ -1,3 +1,7 @@
+body{
+    line-height: 1.5;
+    font-size: 18px;
+}
 .app{
     width: 100%;
     background-color: #19376D;    
@@ -25,6 +29,7 @@ h1{
 .question:hover,
 .question:hover .question-title{
     background-color: #85defc;
+    border-radius: 5px;
     color:#000;
 }
 .question:hover .question-title{
