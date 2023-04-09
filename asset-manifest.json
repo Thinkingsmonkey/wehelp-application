@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wehelp-application/static/css/main.b5cf4816.css",
-    "main.js": "/wehelp-application/static/js/main.2d992ef9.js",
+    "main.css": "/wehelp-application/static/css/main.f4c8c95e.css",
+    "main.js": "/wehelp-application/static/js/main.40c76024.js",
     "index.html": "/wehelp-application/index.html",
-    "main.b5cf4816.css.map": "/wehelp-application/static/css/main.b5cf4816.css.map",
-    "main.2d992ef9.js.map": "/wehelp-application/static/js/main.2d992ef9.js.map"
+    "main.f4c8c95e.css.map": "/wehelp-application/static/css/main.f4c8c95e.css.map",
+    "main.40c76024.js.map": "/wehelp-application/static/js/main.40c76024.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5cf4816.css",
-    "static/js/main.2d992ef9.js"
+    "static/css/main.f4c8c95e.css",
+    "static/js/main.40c76024.js"
   ]
 }
