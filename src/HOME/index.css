@@ -41,3 +41,16 @@ h1{
     margin: 20px 0 0 0;
     border-bottom: 1px solid #fff;
 }
+.question-answer{
+    text-indent: 2em;
+    letter-spacing: 0.2em;
+}
+.link{
+    text-decoration:none;
+    color:#005eff;
+    font-size: 20px;
+}
+.answer{
+    margin: 0;
+    text-indent: 4em;
+}
