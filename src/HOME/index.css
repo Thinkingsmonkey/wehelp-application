@@ -44,10 +44,13 @@ h1{
 }
 .question-answer{
     text-indent: 2em;
+    margin-top: 18px;
 }
 .link{
     text-decoration:none;
-    color:#005eff;
+    color:#1b73d8;
+    /* color:#0bd601; */
+    /* color:#005eff; */
     font-size: 20px;
 }
 ul {
@@ -55,10 +58,10 @@ ul {
 }
   
 li {
-list-style-position: inside;
-margin-bottom: 5px;
-text-indent: -1.5em;
-padding-left: 5em;
+    list-style-position: inside;
+    margin-bottom: 5px;
+    text-indent: -1.5em;
+    padding-left: 5em;
 }
 .shareTitle{
     margin-bottom: -0.5em;
