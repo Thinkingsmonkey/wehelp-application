@@ -1,6 +1,7 @@
 body{
     line-height: 1.5;
     font-size: 18px;
+    font-family:Arial,"Microsoft JhengHei",sans-serif;
 }
 .app{
     width: 100%;
@@ -43,14 +44,22 @@ h1{
 }
 .question-answer{
     text-indent: 2em;
-    letter-spacing: 0.2em;
 }
 .link{
     text-decoration:none;
     color:#005eff;
     font-size: 20px;
 }
-.answer{
-    margin: 0;
-    text-indent: 4em;
+ul {
+    padding-left: 0;
+}
+  
+li {
+list-style-position: inside;
+margin-bottom: 5px;
+text-indent: -1.5em;
+padding-left: 5em;
+}
+.shareTitle{
+    margin-bottom: -0.5em;
 }
